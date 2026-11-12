@@ -1,0 +1,11 @@
+# Credentials (never commit)
+secrets.h
+
+# Arduino / PlatformIO / OS / editors
+build/
+.pio/
+.vscode/
+*.elf
+*.bin
+.DS_Store
+Thumbs.db
